@@ -50,4 +50,5 @@
 </p>
 
 <h4>*Note :- Here i have used my own database which is hosted on my local system using json-server on port no. 3000</h4>
+<h4>**Note :- As the json file is hosted locally git action will not work for it. You can try any online api for the same</h4>
 <h4>Repository created by Ashwin Bansal on 4th July 2024</h4>
