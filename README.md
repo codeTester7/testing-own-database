@@ -44,6 +44,7 @@
         <li>npx jest</li>
       </ul>
     </li>
+    <li>Click on "Apply" and then "Save" button</li>
     <li>Click on "Build Now"</li>
   </ul>
   Add html reporter and junit reporters to project :-
