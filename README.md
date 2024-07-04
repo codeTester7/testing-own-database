@@ -13,9 +13,10 @@
   Steps for creating Git Action Workflow includes :-
   <ul>
     <li>Create a repository of the folder on github.</li>
-    <li>Under navbar of repository click on Actions</li>
-    <li>Select Node.js option under workflow</li>
-    <li>node.js.yml file will be created to execute the test on git actions</li>
+    <li>Under navbar of repository -> Click on "Actions"</li>
+    <li>Select "Node.js" option under workflow</li>
+    <li>"node.js.yml" file will be created to execute the test on git actions</li>
+    <li>Run the Build and test the file</li>
   </ul>
 </p>
 <h3>Configure jenkins with Git Repository</h3>
