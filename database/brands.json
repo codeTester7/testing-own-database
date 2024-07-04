@@ -1,0 +1,126 @@
+{
+  "brands": [
+    {
+      "brand_name": "Samsung",
+      "brand_id": 1,
+      "brand_origin_year": 2000,
+      "brand_origin_country": "Korea",
+      "id": "4a21"
+    },
+    {
+      "brand_name": "Sony",
+      "brand_id": 2,
+      "brand_origin_year": 2001,
+      "brand_origin_country": "Japan",
+      "id": "7f8c"
+    },
+    {
+      "id": "91db",
+      "brand_name": "Oneplus",
+      "brand_id": 3,
+      "brand_origin_year": 2003,
+      "brand_origin_country": "China"
+    },
+    {
+      "id": "8cd5",
+      "brand_name": "Oneplus",
+      "brand_id": 3,
+      "brand_origin_year": 2003,
+      "brand_origin_country": "China"
+    },
+    {
+      "id": "1784",
+      "brand_name": "Oneplus",
+      "brand_id": 3,
+      "brand_origin_year": 2003,
+      "brand_origin_country": "China"
+    },
+    {
+      "id": "ab0c",
+      "brand_name": "Oneplus",
+      "brand_id": 3,
+      "brand_origin_year": 2003,
+      "brand_origin_country": "China"
+    },
+    {
+      "brand_name": "Apple",
+      "brand_origin_country": "USA",
+      "id": "9f9a"
+    },
+    {
+      "brand_name": "Apple",
+      "brand_origin_country": "USA",
+      "id": "8819"
+    },
+    {
+      "id": "7aef",
+      "brand_name": "Brand401",
+      "brand_id": 3,
+      "brand_origin_year": 2003,
+      "brand_origin_country": "USA"
+    },
+    {
+      "id": "0a27",
+      "brand_name": "Brand176",
+      "brand_id": 18.036673241160138,
+      "brand_origin_year": 3786,
+      "brand_origin_country": "USA"
+    },
+    {
+      "id": "6f9d",
+      "brand_name": "Brand297",
+      "brand_id": 71,
+      "brand_origin_year": 1890,
+      "brand_origin_country": "Country0"
+    },
+    {
+      "id": "4ab9",
+      "brand_name": "Brand485",
+      "brand_id": 74,
+      "brand_origin_year": 6921,
+      "brand_origin_country": "Country2"
+    },
+    {
+      "id": "8f34",
+      "brand_name": "Brand326",
+      "brand_id": 6,
+      "brand_origin_year": 5388,
+      "brand_origin_country": "Country3"
+    },
+    {
+      "id": "63ef",
+      "brand_name": "Brand518",
+      "brand_id": 72,
+      "brand_origin_year": 3373,
+      "brand_origin_country": "Country1"
+    },
+    {
+      "id": "9893",
+      "brand_name": "Brand671",
+      "brand_id": 3,
+      "brand_origin_year": 2003,
+      "brand_origin_country": "China"
+    },
+    {
+      "id": "2537",
+      "brand_name": "Brand361",
+      "brand_id": 3,
+      "brand_origin_year": 2003,
+      "brand_origin_country": "China"
+    },
+    {
+      "id": "fe09",
+      "brand_name": "Brand26",
+      "brand_id": 3,
+      "brand_origin_year": 2003,
+      "brand_origin_country": "China"
+    },
+    {
+      "id": "1265",
+      "brand_name": "Brand934",
+      "brand_id": 3,
+      "brand_origin_year": 2003,
+      "brand_origin_country": "China"
+    }
+  ]
+}
