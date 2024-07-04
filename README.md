@@ -48,4 +48,4 @@
   </ul>
 </p>
 
-<h4>*Note :- Here i have used my own database which is hosted on my local system</h4>
+<h4>*Note :- Here i have used my own database which is hosted on my local system using json-server on port no. 3000</h4>
