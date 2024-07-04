@@ -36,6 +36,14 @@
     <li>Add the project using git section under general in configure section</li>
     <li>Add repository link and GAT</li>
     <li>Configure Node js version</li>
+    <li>Check the Executable Windows bash file
+      type in commands :-
+      <ul>
+        <li>cmd.exe</li>
+        <li>npm install</li>
+        <li>npx jest</li>
+      </ul>
+    </li>
     <li>Click on "Build Now"</li>
   </ul>
   Add html reporter and junit reporters to project :-
