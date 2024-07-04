@@ -33,7 +33,8 @@
   <ul>
     <li>Click on create new item button -> Give a name -> click on OK</li>
     <li>Install essential plugins from configure section like nodejs, html publisher, junit-reporters</li>
-    <li>Add the project using git section under configure section</li>
+    <li>Add the project using git section under general in configure section</li>
+    <li>Add repository link and GAT</li>
     <li>Configure Node js version</li>
     <li>Click on "Build Now"</li>
   </ul>
