@@ -24,7 +24,7 @@
 <p>
   Steps to configure jenkins :-
   <ul>
-    <li>Go to settings -> Select "developers settings" -> Choose "generate authority token" -> Save the GAT on notepad</li>
+    <li>Go to Github settings -> Select "developers settings" -> Choose "generate authority token" -> Save the "Git Authority Token" on notepad</li>
     <li>Install jenkins on the PC</li>
     <li>Open browser and type "localhost:8080" in the search bar</li>
     <li>Setup jenkins using Git Authority Token</li>
