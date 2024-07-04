@@ -7,6 +7,11 @@ class brandController {
             .get('/brands');
     }
 
+    getBrandsById(postId) {
+        return request
+            .get(`/brands/${postId}`);
+    }
+
     postBrand(data) {
         return request
             .post('/brands')
