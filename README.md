@@ -30,7 +30,7 @@
     <li>Setup jenkins using Git Authority Token</li>
   </ul>
   Add project to jenkins :-
-  </br>
+  <br>
   <ul>
     <li>Click on create new item button -> Give a name -> click on OK</li>
     <li>Install essential plugins from configure section like nodejs, html publisher, junit-reporters</li>
