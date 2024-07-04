@@ -23,7 +23,7 @@
 <p>
   Steps to configure jenkins :-
   <ul>
-    <li>Go to settings -> Select Developers Settings -> Choose generate authority token -> copy the token on a notepad</li>
+    <li>Go to settings -> Select "developers settings" -> Choose "generate authority token" -> Save the GAT on notepad</li>
     <li>Install jenkins on the PC</li>
     <li>Open browser and type "localhost:8080" in the search bar</li>
     <li>Setup jenkins using Git Authority Token</li>
@@ -34,7 +34,7 @@
     <li>Install essential plugins from configure section like nodejs, html publisher, junit-reporters</li>
     <li>Add the project using git section under configure section</li>
     <li>Configure Node js version</li>
-    <li>Click on Build Now</li>
+    <li>Click on "Build Now"</li>
   </ul>
   Add html reporter and junit reporters to project :-
   <ul>
