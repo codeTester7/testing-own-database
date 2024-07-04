@@ -6,6 +6,7 @@
     <li>npm init -y</li>
     <li>npm install jest supertest ts-jest --save-dev</li>
     <li>npm install @types/jest @types/supertest --save</li>
+    <li>npx ts-jest config:init</li>
   </ul>
 </p>
 <h3>Create the Git Action workflow</h3>
