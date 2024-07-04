@@ -1,5 +1,5 @@
 <h1>API testing using jest and supertest</h1>
-<h3>Initailizing setup files</h3>
+<h3>Initailizing setup files for local testing</h3>
 <p>
   Commands to run on vs code terminal :-
   <ul>
