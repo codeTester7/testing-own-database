@@ -30,7 +30,6 @@
     <li>Setup jenkins using Git Authority Token</li>
   </ul>
   Add project to jenkins :-
-  <br>
   <ul>
     <li>Click on create new item button -> Give a name -> click on OK</li>
     <li>Install essential plugins from configure section like nodejs, html publisher, junit-reporters</li>
@@ -49,7 +48,6 @@
     <li>Click on "Build Now"</li>
   </ul>
   Add html reporter and junit reporters to project :-
-  </br>
   <ul>
     <li>Go to project in jenkins</li>
     <li>Click on configure option in side panel</li>
