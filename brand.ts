@@ -7,7 +7,6 @@ const data = {
     "brand_origin_year" : Math.floor(Math.random() *10000),
     "brand_origin_country" : "Country" + Math.floor(Math.random() * 10)
 }
-
 module.exports = {
     data
 }
