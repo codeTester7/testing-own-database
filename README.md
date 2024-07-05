@@ -24,7 +24,7 @@
 <p>
   Steps to configure jenkins :-
   <ul>
-    <li>Go to settings -> Select "developers settings" -> Choose "generate authority token" -> Save the GAT on notepad</li>
+    <li>Go to Github settings -> Select "developers settings" -> Choose "generate authority token" -> Save the "Git Authority Token" on notepad</li>
     <li>Install jenkins on the PC</li>
     <li>Open browser and type "localhost:8080" in the search bar</li>
     <li>Setup jenkins using Git Authority Token</li>
@@ -33,8 +33,18 @@
   <ul>
     <li>Click on create new item button -> Give a name -> click on OK</li>
     <li>Install essential plugins from configure section like nodejs, html publisher, junit-reporters</li>
-    <li>Add the project using git section under configure section</li>
+    <li>Add the project using git section under general in configure section</li>
+    <li>Add repository link and GAT</li>
     <li>Configure Node js version</li>
+    <li>Check the Executable Windows bash file
+      type in commands :-
+      <ul>
+        <li>cmd.exe</li>
+        <li>npm install</li>
+        <li>npx jest</li>
+      </ul>
+    </li>
+    <li>Click on "Apply" and then "Save" button</li>
     <li>Click on "Build Now"</li>
   </ul>
   Add html reporter and junit reporters to project :-
@@ -50,4 +60,5 @@
 </p>
 
 <h4>*Note :- Here i have used my own database which is hosted on my local system using json-server on port no. 3000</h4>
+<h4>**Note :- As the json file is hosted locally git action will not work for it. You can try any online api for the same</h4>
 <h4>Repository created by Ashwin Bansal on 4th July 2024</h4>
