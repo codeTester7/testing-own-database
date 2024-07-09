@@ -6,12 +6,14 @@ module.exports = {
     ['jest-html-reporters',
       {
       publicPath : "reports",
+      pageTitle : "Custom Jest HTML Report",
       includePassed : true,
       openReport : true,
       expand : true,
       includeCustomData : true,
       includeFailureMsg : true,
-      includeConsoleLog : true
+      includeConsoleLog : true,
+      includeInfoButton : true
       }
     ]
   ]
