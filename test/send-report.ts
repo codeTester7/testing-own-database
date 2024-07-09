@@ -9,8 +9,8 @@ async function sendEmailWithReport() {
     port: 587,
     secure: false, // false for TLS; true for SSL
     auth: {
-      user: 'ashwinbansal123@gmail.com',
-      pass: '123@Ashwin',
+      user: 'myemail@gmail.com',
+      pass: 'password',
     },
   });
 
@@ -20,8 +20,8 @@ async function sendEmailWithReport() {
 
   // Setup email data
   let mailOptions = {
-    from: 'ashwinbansal123@gmail.com',
-    to: '201A002@juetguna.in',
+    from: 'Myemail@gmail.com',
+    to: 'dummy123@gmail.com',
     subject: 'Jest HTML Report',
     html: htmlReport, // HTML content of the report
     attachments: [{
